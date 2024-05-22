@@ -1,5 +1,2 @@
-*pyc
-.idea
+__pycache__
 db.sqlite3
-__pychache__
-venv
